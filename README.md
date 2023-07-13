@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Savva98
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on somebody with a pation, who can explain me some difficult stuffs 
+- 👀 I’m interested to become a web-dev
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me "telegram - @darksiderm"
 
 <!---
