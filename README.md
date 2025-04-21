@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Savva98
 - 👀 I’m interested to become a web-dev
-- 🌱 For now I have started to learn React.
-- ▶ Next step of learning is Node.js.
+- 🌱 For now I have started to learn Node.js.
 - 📫 How to reach me "telegram - @directeBySavva"
 
 <!---
